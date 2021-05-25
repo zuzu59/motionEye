@@ -13,5 +13,5 @@ Et après avec le browser avec *admin* sans *password*:
 
 http://localhost:8765
 
-
-
+http://192.168.0.113:8765
+toto
