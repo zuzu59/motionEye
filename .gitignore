@@ -1,3 +1,7 @@
+etc_motioneye
+var_lib_motioneye
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
