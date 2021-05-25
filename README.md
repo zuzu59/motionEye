@@ -9,5 +9,9 @@ Juste:
 ./start.sh
 ```
 
+Et après avec le browser avec *admin* sans *password*:
+
+http://localhost:8765
+
 
 
